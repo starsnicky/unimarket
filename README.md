@@ -9,14 +9,15 @@ informações importantes como Nome, CPF, Celular e E-mail.
 
 # Instalação
 Abra um terminal dentro do local que você deseja e utilize esse comando:
-> git clone https://github.com/starsnicky/unimarket
+> ``git clone https://github.com/starsnicky/unimarket``
 
 # Importante
-> Utilize o Visual Studio Code para rodar o sistema
-> Faça o código da run pela classe "CadastroEPesquisaClientes.java"
+> Utilize o ``Visual Studio Code`` para rodar o sistema
+
+> Faça o código da run pela classe ``"CadastroEPesquisaClientes.java"``
 
 # Prévia
-<img src="/github/preview.gif.GIF">
+<img src="/github/preview.gif.GIF" alt="Preview" height="450" width="450">
 
 ---
 
