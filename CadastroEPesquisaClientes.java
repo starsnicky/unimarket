@@ -20,8 +20,7 @@ class CadastroEPesquisaClientesUI {
     public CadastroEPesquisaClientesUI() {
         tabelaHash = new HashMap<>();
 
-        // Configurar a interface gráfica
-        JFrame frame = new JFrame("Cadastro e Pesquisa de Clientes");
+        JFrame frame = new JFrame("Sistema de Gestão de Clientes");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(640, 480);
 
@@ -75,7 +74,7 @@ class CadastroEPesquisaClientesUI {
         });
         panel.add(buttonCadastrar);
 
-        JLabel labelBuscarCPF = new JLabel("Buscar por CPF:");
+        JLabel labelBuscarCPF = new JLabel("Buscar cliente por CPF:");
         labelBuscarCPF.setBounds(10, 160, 120, 25);
         panel.add(labelBuscarCPF);
 

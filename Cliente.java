@@ -11,7 +11,6 @@ class Cliente {
         this.mesmoNumero = mesmoNumero;
     }
 
-    // Getters e Setters
     public String getNome() {
         return nome;
     }
